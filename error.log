@@ -1,0 +1,32 @@
+{"level":50,"time":1695205991678,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695205992838,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695205993764,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206000232,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206005786,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206011546,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206013319,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206014005,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206052134,"pid":70633,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206355879,"pid":71365,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206356997,"pid":71365,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206388423,"pid":71365,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206389230,"pid":71365,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695206723094,"pid":71623,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error  | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695211392166,"pid":76337,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695211407181,"pid":76337,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error  | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695211704857,"pid":76893,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error  | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695213845259,"pid":79589,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695213849031,"pid":79589,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695213865143,"pid":79589,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error  | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214211584,"pid":80521,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214238446,"pid":80604,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214273819,"pid":80744,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214461622,"pid":80744,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214524161,"pid":80920,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214626611,"pid":81172,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695214981023,"pid":81172,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695215038658,"pid":81172,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695215060282,"pid":81172,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695215267652,"pid":82505,"hostname":"chicmic-Macmini","msg":"GET /* 401 | \n          Unauthorized  | {\"body\":{},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695215275955,"pid":82505,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
+{"level":50,"time":1695215326642,"pid":82915,"hostname":"chicmic-Macmini","msg":"POST /user/register 500 | \n          Internal Server Error Cannot read properties of undefined (reading 'filePath') | {\"body\":{\"name\":\"string\"},\"params\":{},\"query\":{}}"}
