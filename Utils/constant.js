@@ -6,9 +6,15 @@ CONSTANTS.STRIPE_WEBHOOK_ENDPOINTS = [
 
 ];
 
+CONSTANTS.USER_TYPE = {
+    ADMIN: 1,
+    PARTNER: 2,
+    COMPANY: 3,
+};
+
 CONSTANTS.SECURITY = {
     BCRYPT_SALT: 8,
-}
+};
 
 CONSTANTS.NORMAL_PROJECTION = {
     __v: 0, isDeleted: 0, createdAt: 0, updatedAt: 0, password: 0,

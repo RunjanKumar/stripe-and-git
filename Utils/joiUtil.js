@@ -28,7 +28,7 @@ joiUtils.Joi = Joi.extend((Joi) => ({
         objectId: {
             validate(value, helpers) {
                 if (mongoose.Types.ObjectId.isValid(value)) {
-                    return mongoose.Types.ObjectId(value);
+                    return new mongoose.Types.ObjectId(value);
                 }
                 return helpers.error('string.objectId');
             },

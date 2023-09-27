@@ -11,7 +11,7 @@ const startNodeserver = async () => {
     await require('./startup/db_mongodb.js')() // make connectoin with database
     await require('./startup/expressStartup.js')(app); // express startup
     return new Promise((resolve, reject) => {
-        server.listen(9400, (err) => {
+        server.listen(SERVER.PORT, (err) => {
             if (err) reject(err);
             resolve();
         });

@@ -177,7 +177,6 @@ let getHandlerMethod = (route) => {
         }
         handler(payload)
             .then((result) => {
-                console.log(result,'--------');
                 if (result.filePath) {
                     const filePath = path.resolve(`${__dirname}/../${result.filePath}`);
                     return response.status(result.statusCode).sendFile(filePath);

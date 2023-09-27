@@ -29,10 +29,10 @@ dbMigrations.createAdmin = async () => {
             },
             {
                 name: 'runjan',
-                age: 20,
+                age: 21,
                 email: 'sahil@yopmail.com', /* CONFIG.ADMIN.EMAIL, */
                 password: hashPassword('runjan22'),
-                userName: 'runjan', /* CONFIG.ADMIN.USERNAME, */
+                userName: 'sahil', /* CONFIG.ADMIN.USERNAME, */
                 type:/*  USER_TYPE.SUPER_ADMIN || */ 1,
             }
         ];

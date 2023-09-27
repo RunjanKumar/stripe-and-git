@@ -25,6 +25,7 @@ const defaults = {
         API_SECRET: process.env.PINO_API_SECRET || 'pino secret key',
     },
     LIVE_LOGGER_ENABLE: process.env.LIVE_LOGGER_ENABLE || false,
+    STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY || '',
 };
 
 module.exports = defaults;
